@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+/* .container {
+  padding: 10px;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+} */
+
+#contents{
+  display: none;
+}
+
+.heading{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.image-viewer{
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#openSeaDragon{
+  width: 600px;
+  height: 400px;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.inner {
+  margin: 5px;
+  padding: 5px;
+}
+
+/* .inner button{
+  background-color: rgb(0, 0, 0);
+  border: 0.5px solid white;
+  color: white;
+  font-size: 15px;
+  margin: 2px;
+  padding: 5px;
+} */
