@@ -1,6 +1,6 @@
 # OpenSeaDragon Viewer React App
 
-> A React App that shows OSD images with zooming features
+> A React App with OSD viewer
 
 ## Installations
 
